@@ -2,9 +2,6 @@
 permalink: /
 title: "Zhengyu Tao | UIUC Mechanical Engineering"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <div style="text-align: justify">
@@ -58,4 +55,5 @@ My current research interests lie in **robotic manufacturing**, **robot navigati
 ---
 
 _Last updated: {{ site.time | date: "%B %Y" }}_
+
 
