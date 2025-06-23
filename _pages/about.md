@@ -53,7 +53,7 @@ My current research interests lie in **robotic manufacturing**, **robot navigati
 ---
 
 ### 🖼️ Profile Photo  
-![Profile](/images/profile.jpg)
+![Profile](/images/Profile.png)
 
 ---
 
